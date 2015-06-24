@@ -1,0 +1,19 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"HTML5",
+		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimePackageSync",
+		"Theme - Cobalt2"
+	]
+}
