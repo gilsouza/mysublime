@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"AlignTab",
 		"AutoFileName",
 		"Boxy Theme",
 		"BracketHighlighter",
@@ -24,6 +26,7 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"Theme - Cobalt2",
+		"Trimmer",
 		"VBScript",
 		"Vue Syntax Highlight"
 	]
