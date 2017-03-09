@@ -6,12 +6,14 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"Git",
+		"GitGutter",
 		"Hasher",
 		"HTML5",
 		"HTMLBeautify",
@@ -22,6 +24,7 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"Theme - Cobalt2",
-		"VBScript"
+		"VBScript",
+		"Vue Syntax Highlight"
 	]
 }

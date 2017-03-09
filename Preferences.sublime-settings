@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
 	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -13,5 +13,23 @@
 		"draw_active"
 	],
 	"save_on_focus_lost": true,
-	"theme": "Cobalt2.sublime-theme"
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_bar": true,
+	"theme_bar_colored": true,
+	"theme_bar_logo_atomized": true,
+	"theme_font_lg": true,
+	"theme_icon_button_highlighted": true,
+	"theme_icons_atomized": true,
+	"theme_icons_flat": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_heading_bold": true,
+	"theme_sidebar_icon_saturation_lw": true,
+	"theme_size_xl": true,
+	"theme_statusbar_size_sm": true,
+	"theme_tab_close_always_visible": true,
+	"theme_tab_font_sm": true,
+	"theme_tab_label_bold": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_selected_label_bold": true,
+	"theme_tab_size_xxl": true
 }
